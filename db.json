@@ -48,6 +48,7 @@
       "discription": "Lotus Herbals Safe Sun Uv Screen Mattegel Ultra Soothing Sunscreen | PA+++ | SPF 50 | Matte Look | Oil Control | For Normal to Oily Skin | 30g",
       "price": 279,
       "discount": 15,
+      "category": " Sun-Screen",
       "small_images": [
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_1_display_1585574794_e7f3d9a6.jpg",
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_2_display_1585574795_e8730151.jpg",
@@ -67,6 +68,7 @@
       "discription": "Maybelline New York Color Sensational Creamy Matte Lipstick Touch Of Spice (3.9 g",
       "price": 379,
       "discount": 10,
+      "category": "Maybelline New York Lipstick",
       "small_images": [
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_10_display_1669014541_92074a19.jpg",
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_11_display_1669014541_8c7defa3.jpg",
@@ -86,6 +88,7 @@
       "discription": "Streax Professional Vitariche Gloss Hair Serum 115 ML",
       "price": 282,
       "discount": 5,
+      "category": "Hair Serum",
       "small_images": [
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg",
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg",
@@ -104,91 +107,104 @@
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/279084/matrix-opticare-smooth-shampoo-200-ml-61_1_display_1692258773_75e4da5b.jpg",
       "discription": "MATRIX Opti.Care Professional Shampoo for Smooth Straight Shampoo | For Salon Smooth, Straight hair | with Shea Butter (200ml)",
       "price": 390,
-      "discount": 20
+      "discount": 20,
+      "category": "Shampoo"
     },
     {
       "id": 5,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/283235/pilgrim-squalane-roll-on-under-eye-cream-serum-with-caffeine_1_display_1673527092_91f358c2.jpg",
       "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
       "price": 380,
-      "discount": 12
+      "discount": 12,
+      "category": "Roll-On Under Eye Cream"
     },
     {
       "id": 6,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/345341/garnier-bright-complete-vitamin-c-facewash-150-g-83_1_display_1688470915_c2d405ff.jpg",
       "discription": "Garnier Bright Complete VITAMIN C Facewash (150 g)",
       "price": 210,
-      "discount": 0
+      "discount": 0,
+      "category": "VITAMIN C Facewash"
     },
     {
       "id": 7,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/348442/insight-3-in-1-long-lasting-primer-30ml-67_2_display_1630212475_7b05bb98.jpg",
       "discription": "Insight 3 In 1 Long Lasting Primer (30ml)",
       "price": 548,
-      "discount": 20
+      "discount": 20,
+      "category": "primer"
     },
     {
       "id": 8,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/283235/pilgrim-squalane-roll-on-under-eye-cream-serum-with-caffeine_1_display_1673527092_91f358c2.jpg",
       "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
       "price": 680,
-      "discount": 35
+      "discount": 35,
+      "category": "Roll-On Under Eye Cream Serum"
     },
     {
       "id": 9,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/297068/biotique-sun-shield-sandalwood-50-spf-sunscreen-lotion-120-ml_1_display_1675401165_f56c5e8c.jpg",
       "discription": "Biotique Sun Shield Sandalwood 50+Spf Sunscreen Lotion (120 ml)",
       "price": 399,
-      "discount": 15
+      "discount": 15,
+      "category": "Sun Shield Sandalwood"
     },
     {
       "id": 10,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/355945/maybelline-the-colossal-volum-express-waterproof-mascara-01-46_7_display_1668754513_27dc93b1.jpg",
       "discription": "Maybelline New York The Colossal 2x Volume Waterproof Mascara - Black (10 g)",
       "price": 519,
-      "discount": 10
+      "discount": 10,
+      "category": "Waterproof Mascara"
     },
     {
       "id": 11,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/349216/lotus-herbals-whiteglow-serum-moisturiser-30-ml-14_2_display_1678438926_bb7fbbdc.jpg",
       "discription": "Lotus Herbals Whiteglow Intensive Skin Serum + Moisturiser | Nourishes & Moisturises Skin | For All Skin Types | 30ml",
       "price": 690,
-      "discount": 15
+      "discount": 15,
+      "category": "Moisturiser"
     },
     {
       "id": 12,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/345208/maybelline-new-york-colossal-bold-eyeliner-black-3-g-21_1_display_1678336605_f4d810ef.jpg",
       "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
       "price": 580,
-      "discount": 20
+      "discount": 20,
+      "category": "Roll-On Under Eye Cream Serum For Dark Circles"
     },
     {
       "id": 13,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/343059/maybelline-dramatic-gel-liner-blank-77-17_2_display_1644384082_466837ab.jpg",
       "discription": "Maybelline New York Lasting Drama Gel Eyeliner, Black 01",
       "price": 400,
-      "discount": 10
+      "discount": 10,
+      "category": "Drama Gel Eyeliner"
     },
     {
       "id": 14,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/332317/maybelline-new-york-fit-me-matte-poreless-liquid-foundation-tube-115-ivory-18-ml-11_1_display_1675256597_5f46531f.jpg",
       "discription": "Maybelline New York Fit Me Matte+Poreless Liquid",
       "price": 429,
-      "discount": 15
+      "discount": 15,
+      "category": "Fit Me Matte+Poreless"
     },
     {
       "id": 15,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/253504/maybelline-new-york-super-stay-matte-ink-liquid-lipstick-120-artist-5-g_8_display_1568192454_6fea453a.jpg",
       "discription": "Maybelline New York Super Stay Matte Ink Liquid",
       "price": 699,
-      "discount": 20
+      "discount": 20,
+      "category": "Matte Ink Liquid Lipstick"
     },
     {
       "id": 16,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/307565/maybelline-new-york-lash-sensational-sky-high-waterproof-mascara-lengthening-and-volumizing-mascara-with-bamboo-exract-and-fibres-very-black-6-ml_1_display_1678336663_76640fad.jpg",
       "discription": "Buy 3 Extra 10% Off Maybelline New York Lash Sensational Sky High",
       "price": 599,
-      "discount": 25
+      "discount": 25,
+      "category": "maybelline-new-york-lash-sensational"
     }
   ],
   "Lowest_Peices_Ever": [
