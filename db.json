@@ -78,17 +78,24 @@
       "price": 379,
       "discount": 10,
       "category": "Maybelline New York Lipstick",
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_10_display_1669014541_92074a19.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_11_display_1669014541_8c7defa3.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_13_display_1669014543_cde26d27.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_14_display_1669014543_0d574341.jpg"
-      ],
-      "big_images": [
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_10_display_1669014541_92074a19.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_11_display_1669014541_8c7defa3.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_13_display_1669014543_cde26d27.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_14_display_1669014543_0d574341.jpg"
+      "review": 2.9,
+      "stars": 3.8,
+
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_10_display_1669014541_92074a19.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_11_display_1669014541_8c7defa3.jpg"
+        },
+
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_13_display_1669014543_cde26d27.jpg"
+        },
+
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_14_display_1669014543_0d574341.jpg"
+        }
       ]
     },
     {
@@ -98,17 +105,22 @@
       "price": 282,
       "discount": 5,
       "category": "Hair Serum",
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
-      ],
-      "big_images": [
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+      "review": 2.8,
+      "stars": 2.8,
+
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
       ]
     },
     {
@@ -117,7 +129,21 @@
       "discription": "MATRIX Opti.Care Professional Shampoo for Smooth Straight Shampoo | For Salon Smooth, Straight hair | with Shea Butter (200ml)",
       "price": 390,
       "discount": 20,
-      "category": "Shampoo"
+      "category": "Shampoo",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 5,
@@ -125,7 +151,21 @@
       "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
       "price": 380,
       "discount": 12,
-      "category": "Roll-On Under Eye Cream"
+      "category": "Roll-On Under Eye Cream",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 6,
@@ -133,7 +173,21 @@
       "discription": "Garnier Bright Complete VITAMIN C Facewash (150 g)",
       "price": 210,
       "discount": 0,
-      "category": "VITAMIN C Facewash"
+      "category": "VITAMIN C Facewash",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 7,
@@ -141,7 +195,21 @@
       "discription": "Insight 3 In 1 Long Lasting Primer (30ml)",
       "price": 548,
       "discount": 20,
-      "category": "primer"
+      "category": "primer",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 8,
@@ -149,7 +217,21 @@
       "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
       "price": 680,
       "discount": 35,
-      "category": "Roll-On Under Eye Cream Serum"
+      "category": "Roll-On Under Eye Cream Serum",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 9,
@@ -157,7 +239,21 @@
       "discription": "Biotique Sun Shield Sandalwood 50+Spf Sunscreen Lotion (120 ml)",
       "price": 399,
       "discount": 15,
-      "category": "Sun Shield Sandalwood"
+      "category": "Sun Shield Sandalwood",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 10,
@@ -165,7 +261,21 @@
       "discription": "Maybelline New York The Colossal 2x Volume Waterproof Mascara - Black (10 g)",
       "price": 519,
       "discount": 10,
-      "category": "Waterproof Mascara"
+      "category": "Waterproof Mascara",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 11,
@@ -173,7 +283,21 @@
       "discription": "Lotus Herbals Whiteglow Intensive Skin Serum + Moisturiser | Nourishes & Moisturises Skin | For All Skin Types | 30ml",
       "price": 690,
       "discount": 15,
-      "category": "Moisturiser"
+      "category": "Moisturiser",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 12,
@@ -181,7 +305,21 @@
       "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
       "price": 580,
       "discount": 20,
-      "category": "Roll-On Under Eye Cream Serum For Dark Circles"
+      "category": "Roll-On Under Eye Cream Serum For Dark Circles",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 13,
@@ -189,7 +327,21 @@
       "discription": "Maybelline New York Lasting Drama Gel Eyeliner, Black 01",
       "price": 400,
       "discount": 10,
-      "category": "Drama Gel Eyeliner"
+      "category": "Drama Gel Eyeliner",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 14,
@@ -197,7 +349,21 @@
       "discription": "Maybelline New York Fit Me Matte+Poreless Liquid",
       "price": 429,
       "discount": 15,
-      "category": "Fit Me Matte+Poreless"
+      "category": "Fit Me Matte+Poreless",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 15,
@@ -205,7 +371,21 @@
       "discription": "Maybelline New York Super Stay Matte Ink Liquid",
       "price": 699,
       "discount": 20,
-      "category": "Matte Ink Liquid Lipstick"
+      "category": "Matte Ink Liquid Lipstick",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     },
     {
       "id": 16,
@@ -213,7 +393,21 @@
       "discription": "Buy 3 Extra 10% Off Maybelline New York Lash Sensational Sky High",
       "price": 599,
       "discount": 25,
-      "category": "maybelline-new-york-lash-sensational"
+      "category": "maybelline-new-york-lash-sensational",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
     }
   ],
   "Lowest_Peices_Ever": [
