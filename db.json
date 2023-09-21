@@ -49,7 +49,7 @@
       "price": 279,
       "discount": 15,
       "category": "Sun-Screen",
-      "review": 2.8,
+      "review": 25,
       "stars": 2.8,
 
       "images": [
@@ -78,7 +78,7 @@
       "price": 379,
       "discount": 10,
       "category": "Maybelline New York Lipstick",
-      "review": 2.9,
+      "review": 29,
       "stars": 3.8,
 
       "images": [
@@ -105,7 +105,7 @@
       "price": 282,
       "discount": 5,
       "category": "Hair Serum",
-      "review": 2.8,
+      "review": 45,
       "stars": 2.8,
 
       "images": [
@@ -130,6 +130,8 @@
       "price": 390,
       "discount": 20,
       "category": "Shampoo",
+      "review": 45,
+      "stars": 4.1,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -152,6 +154,8 @@
       "price": 380,
       "discount": 12,
       "category": "Roll-On Under Eye Cream",
+      "review": 55,
+      "stars": 3.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -174,6 +178,8 @@
       "price": 210,
       "discount": 0,
       "category": "VITAMIN C Facewash",
+      "review": 65,
+      "stars": 4.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -196,6 +202,8 @@
       "price": 548,
       "discount": 20,
       "category": "primer",
+      "review": 85,
+      "stars": 5,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -218,6 +226,8 @@
       "price": 680,
       "discount": 35,
       "category": "Roll-On Under Eye Cream Serum",
+      "review": 35,
+      "stars": 2.5,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -240,6 +250,8 @@
       "price": 399,
       "discount": 15,
       "category": "Sun Shield Sandalwood",
+      "review": 45,
+      "stars": 2.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -262,6 +274,8 @@
       "price": 519,
       "discount": 10,
       "category": "Waterproof Mascara",
+      "review": 66,
+      "stars": 4.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -284,6 +298,8 @@
       "price": 690,
       "discount": 15,
       "category": "Moisturiser",
+      "review": 85,
+      "stars": 4.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -306,6 +322,8 @@
       "price": 580,
       "discount": 20,
       "category": "Roll-On Under Eye Cream Serum For Dark Circles",
+      "review": 25,
+      "stars": 2.3,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -327,6 +345,8 @@
       "discription": "Maybelline New York Lasting Drama Gel Eyeliner, Black 01",
       "price": 400,
       "discount": 10,
+      "review": 59,
+      "stars": 4.8,
       "category": "Drama Gel Eyeliner",
       "images": [
         {
@@ -350,6 +370,8 @@
       "price": 429,
       "discount": 15,
       "category": "Fit Me Matte+Poreless",
+      "review": 45,
+      "stars": 3.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -372,6 +394,8 @@
       "price": 699,
       "discount": 20,
       "category": "Matte Ink Liquid Lipstick",
+      "review": 75,
+      "stars": 3.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
@@ -394,6 +418,8 @@
       "price": 599,
       "discount": 25,
       "category": "maybelline-new-york-lash-sensational",
+      "review": 75,
+      "stars": 3.8,
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
