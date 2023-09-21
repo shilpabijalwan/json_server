@@ -48,18 +48,27 @@
       "discription": "Lotus Herbals Safe Sun Uv Screen Mattegel Ultra Soothing Sunscreen | PA+++ | SPF 50 | Matte Look | Oil Control | For Normal to Oily Skin | 30g",
       "price": 279,
       "discount": 15,
-      "category": " Sun-Screen",
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_1_display_1585574794_e7f3d9a6.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_2_display_1585574795_e8730151.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_3_display_1662470239_1725e771.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_5_display_1662470240_11895385.jpg"
-      ],
-      "big_images": [
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_1_display_1585574794_e7f3d9a6.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_2_display_1585574795_e8730151.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_3_display_1662470239_1725e771.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_4_display_1662470239_e8cf1fba.jpg"
+      "category": "Sun-Screen",
+      "review": 2.8,
+      "stars": 2.8,
+
+      "images": [
+        {
+          "id": 1,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_1_display_1585574794_e7f3d9a6.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_2_display_1585574795_e8730151.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_3_display_1662470239_1725e771.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_4_display_1662470239_e8cf1fba.jpg"
+        }
       ]
     },
     {
