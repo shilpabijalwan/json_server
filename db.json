@@ -820,7 +820,9 @@
       "price": 440,
       "discount": 13,
       "key": "Makeup Base",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 3,
@@ -833,7 +835,9 @@
       "price": 229,
       "discount": 17,
       "key": "Concealer",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 4,
@@ -845,7 +849,9 @@
       "price": 249,
       "discount": 10,
       "key": "makeup fixer",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 5,
@@ -857,7 +863,9 @@
       "price": 287,
       "discount": 62,
       "key": "makeup setting spray",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 6,
@@ -869,7 +877,9 @@
       "price": 299,
       "discount": 33,
       "key": "mascara",
-      "color": "black"
+      "color": "black",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 7,
@@ -880,7 +890,9 @@
       "price": 99,
       "discount": 25,
       "key": "Eyebrow Pencil",
-      "color": "Dark-Brown"
+      "color": "Dark-Brown",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 8,
@@ -891,7 +903,9 @@
       "price": 199,
       "discount": 16,
       "key": "Matte Lip Liquid Lipstick",
-      "color": "Nude"
+      "color": "Nude",
+      "review": 25,
+      "stars": 2.8
     },
 
     {
@@ -903,7 +917,9 @@
       "price": 299,
       "discount": 20,
       "key": "Eyeliner",
-      "color": "black"
+      "color": "black",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 10,
@@ -914,7 +930,9 @@
       "price": 289,
       "discount": 26,
       "key": "makeup fixer",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 11,
@@ -925,7 +943,9 @@
       "price": 229,
       "discount": 15,
       "key": "Concealer",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 12,
@@ -936,7 +956,9 @@
       "price": 399,
       "discount": 12,
       "key": "Matte Lip Liquid Lipstick",
-      "color": "Nude"
+      "color": "Nude",
+      "review": 25,
+      "stars": 2.8
     },
 
     {
@@ -949,7 +971,9 @@
       "price": 249,
       "discount": 10,
       "key": "makeup fixer",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 14,
@@ -961,7 +985,9 @@
       "price": 287,
       "discount": 62,
       "key": "makeup setting spray",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 2.8
     },
     {
       "id": 15,
@@ -973,7 +999,9 @@
       "price": 299,
       "discount": 33,
       "key": "mascara",
-      "color": "black"
+      "color": "black",
+      "review": 25,
+      "stars": 5
     },
     {
       "id": 16,
@@ -984,7 +1012,9 @@
       "price": 99,
       "discount": 25,
       "key": "Eyebrow Pencil",
-      "color": "Dark-Brown"
+      "color": "Dark-Brown",
+      "review": 25,
+      "stars": 4.8
     },
     {
       "id": 17,
@@ -995,7 +1025,9 @@
       "price": 199,
       "discount": 169,
       "key": "Matte Lip Liquid Lipstick",
-      "color": "Nude"
+      "color": "Nude",
+      "review": 25,
+      "stars": 4.8
     },
 
     {
@@ -1007,7 +1039,9 @@
       "price": 299,
       "discount": 20,
       "key": "Eyeliner",
-      "color": "black"
+      "color": "black",
+      "review": 25,
+      "stars": 4.8
     },
     {
       "id": 19,
@@ -1018,7 +1052,9 @@
       "price": 289,
       "discount": 26,
       "key": "makeup fixer",
-      "color": ""
+      "color": "",
+      "review": 25,
+      "stars": 4.8
     }
   ],
 
