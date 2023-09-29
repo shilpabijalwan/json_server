@@ -516,7 +516,7 @@
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1692972879_swiss_beauty_makeup_for_every_shade_copy_1-1476x1028.jpeg",
       "brand": "Swiss Beauty",
 
-      "SwissBeautybanner": [
+      "Brandbanner": [
         {
           "id": 1,
           "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1676021356_swiss-beauty-2_web_hp.jpg"
@@ -527,7 +527,14 @@
     {
       "id": 2,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693380810_lotus_herbals_uv_protection-1476x1028.jpeg",
-      "brand": "lotus"
+      "brand": "lotus",
+      "Brandbanner": [
+        {
+          "id": 1,
+
+          "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1695970333_maybellie_web.jpg"
+        }
+      ]
     },
     {
       "id": 3,
