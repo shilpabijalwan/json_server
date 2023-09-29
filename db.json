@@ -514,6 +514,7 @@
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1692972879_swiss_beauty_makeup_for_every_shade_copy_1-1476x1028.jpeg",
+      "brand": "Swiss Beauty",
 
       "SwissBeautybanner": [
         {
@@ -522,13 +523,14 @@
         },
         {
           "id": 2,
-          "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1676021356_swiss-beauty-2_web_hp.jpg"
+          "img": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1681714383_best-sellers-2.jpg"
         }
       ],
       "SwissBeautyProducts": [
         {
           "id": 1,
           "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
+
           "title": "Best Sellers",
           "cetegory": "Lipstick",
           "discription": "Swiss Beauty CRAZE Duo Lipstick | Non-transfer Lip Colour | 2-in-1 Lip Colour with Satin Matte Finish | 2 Shades in 1 Lipstick | Long-lasting lipstick 04 Terrafic Pink",
@@ -536,23 +538,32 @@
           "discount": 20,
           "key": "Lipstick",
           "color": "Duo Lip Color",
+          "review": 75,
+          "stars": 3.8,
           "Shades:": [
             "04 Terrafic Pink",
             "01 Party Ready",
             " Terrafic Pink",
             "02 Ultimate Nude"
           ],
-          "small_images": [
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg",
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg",
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
-          ],
-          "big_images": [
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg",
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg",
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
+
+          "images": [
+            {
+              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
+              "id": 1
+            },
+            {
+              "id": 2,
+              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg"
+            },
+            {
+              "id": 3,
+              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg"
+            },
+            {
+              "id": 4,
+              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
+            }
           ]
         },
 
@@ -969,34 +980,42 @@
 
     {
       "id": 2,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693380810_lotus_herbals_uv_protection-1476x1028.jpeg"
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693380810_lotus_herbals_uv_protection-1476x1028.jpeg",
+      "brand": "lotus"
     },
     {
       "id": 3,
-      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693159450_vitamin-c-serum-without-stampgv-vitamin-c-serum-app-banner.jpg"
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693159450_vitamin-c-serum-without-stampgv-vitamin-c-serum-app-banner.jpg",
+      "brand": "Good vibes"
     },
     {
       "id": 4,
+      "brand": "NY bae",
       "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1692953040_apphero_tag-copy-4-2.png"
     },
     {
       "id": 5,
+      "brand": "FACE CANADA",
       "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1692954370_faces_hydra_matte-1476x1028-1.jpeg"
     },
     {
       "id": 6,
+      "brand": "ALPS GOODNESS",
       "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693285955_exclusivestamp01_hpapp.jpg"
     },
     {
       "id": 7,
+      "brand": "mamaearth",
       "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693294439_mamaearth_ubtan_facewash-1476x1028.jpeg"
     },
     {
       "id": 8,
+      "brand": "L'OREAL",
       "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693381268_loreal_professionel_black-1476x1028.jpeg"
     },
     {
       "id": 9,
+      "brand": "NIVEA",
       "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693417438_nivea_roll_on_copy_1-1476x1028.jpeg"
     }
   ],
