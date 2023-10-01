@@ -521,63 +521,6 @@
           "id": 1,
           "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1676021356_swiss-beauty-2_web_hp.jpg"
         }
-      ],
-
-      "BrandProducts": [
-        {
-          "id": 1,
-          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-
-          "title": "Best Sellers",
-          "cetegory": "Lipstick",
-          "discription": "Swiss Beauty CRAZE Duo Lipstick | Non-transfer Lip Colour | 2-in-1 Lip Colour with Satin Matte Finish | 2 Shades in 1 Lipstick | Long-lasting lipstick 04 Terrafic Pink",
-          "price": 299,
-          "discount": 20,
-          "key": "Lipstick",
-          "color": "Duo Lip Color",
-          "review": 75,
-          "stars": 3.8,
-          "Shades:": [
-            "04 Terrafic Pink",
-            "01 Party Ready",
-            " Terrafic Pink",
-            "02 Ultimate Nude"
-          ],
-
-          "images": [
-            {
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-              "id": 1
-            },
-            {
-              "id": 2,
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg"
-            },
-            {
-              "id": 3,
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg"
-            },
-            {
-              "id": 4,
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
-            }
-          ]
-        },
-
-        {
-          "id": 2,
-          "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/361020/swiss-beauty-real-makeup-base-highlighting-primer-natural-tint-30-ml_1_display_1590792783_75d33aec.jpg",
-          "title": "Best Sellers",
-          "cetegory": "makeup",
-
-          "discription": "Swiss Beauty Real Makeup Base Highlighting Primer - Natural-Tint (32 ml)",
-          "price": 440,
-          "discount": 13,
-          "key": "Makeup Base",
-          "color": "",
-          "review": 25,
-          "stars": 2.8
-        }
       ]
     },
 
@@ -585,67 +528,12 @@
       "id": 2,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693380810_lotus_herbals_uv_protection-1476x1028.jpeg",
       "brand": "lotus",
+
       "Brandbanner": [
         {
           "id": 1,
 
           "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1695970333_maybellie_web.jpg"
-        }
-      ],
-      "BrandProducts": [
-        {
-          "id": 1,
-          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-
-          "title": "Best Sellers",
-          "cetegory": "Lipstick",
-          "discription": "Swiss Beauty CRAZE Duo Lipstick | Non-transfer Lip Colour | 2-in-1 Lip Colour with Satin Matte Finish | 2 Shades in 1 Lipstick | Long-lasting lipstick 04 Terrafic Pink",
-          "price": 299,
-          "discount": 20,
-          "key": "Lipstick",
-          "color": "Duo Lip Color",
-          "review": 75,
-          "stars": 3.8,
-          "Shades:": [
-            "04 Terrafic Pink",
-            "01 Party Ready",
-            " Terrafic Pink",
-            "02 Ultimate Nude"
-          ],
-
-          "images": [
-            {
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-              "id": 1
-            },
-            {
-              "id": 2,
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg"
-            },
-            {
-              "id": 3,
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg"
-            },
-            {
-              "id": 4,
-              "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
-            }
-          ]
-        },
-
-        {
-          "id": 2,
-          "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/361020/swiss-beauty-real-makeup-base-highlighting-primer-natural-tint-30-ml_1_display_1590792783_75d33aec.jpg",
-          "title": "Best Sellers",
-          "cetegory": "makeup",
-
-          "discription": "Swiss Beauty Real Makeup Base Highlighting Primer - Natural-Tint (32 ml)",
-          "price": 440,
-          "discount": 13,
-          "key": "Makeup Base",
-          "color": "",
-          "review": 25,
-          "stars": 2.8
         }
       ]
     },
