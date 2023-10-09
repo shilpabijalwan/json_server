@@ -510,6 +510,7 @@
       "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1695806662_pujo_combo-thick-strip-web.jpg"
     }
   ],
+
   "grid_Brands": [
     {
       "id": 1,
@@ -1070,14 +1071,8 @@
       "discription": "Good Vibes De-Tan Glow Night Cream Ubtan with Power of Serum | No Parabens, No Animal Testing, Vegan, No Mineral Oil, No Sulphates (50 g)",
       "price": 290,
       "discount": 28,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_13_display_1690806913_2d5ebe57.jpg",
-
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_1_display_1679396344_c049e17e.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_12_display_1685605550_4f8ec4bf.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_2_display_1679396345_92e00f43.jpg"
-      ],
-      "big_images": [
+      
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_13_display_1690806913_2d5ebe57.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_1_display_1679396344_c049e17e.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_12_display_1685605550_4f8ec4bf.jpg",
@@ -1087,17 +1082,11 @@
     {
       "id": 2,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_11_display_1676005886_074d3c93.jpg",
-      "discription": "",
+      "discription": "Good Vibes De-Tan Glow Night Cream Ubtan with Power of Serum | No Parabens, No Animal Testing, Vegan, No Mineral Oil, No Sulphates (50 g)",,
       "price": 399,
       "discount": 9,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_11_display_1676005886_074d3c93.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_1_display_1676005847_4b595aa6.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_1_display_1676005847_4b595aa6.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_3_display_1676005855_7d1c8f4a.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_4_display_1676005859_0f3e85e8.jpg"
-      ],
-      "big_images": [
+      
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_1_display_1676005847_4b595aa6.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_12_display_1681978043_046e24b9.jpg",
         "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_1_display_1676005847_4b595aa6.jpg",
@@ -1111,14 +1100,8 @@
       "discription": "Good Vibes Papaya Brightening Face Wash | Deep Pore Cleansing, Non-Drying | With Mulberry | No Parabens, No Mineral Oil, No Animal Testing (120 ml)",
       "price": 235,
       "discount": 23,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_2_display_1682070632_e4cfb4b3.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_3_display_1682070633_3dff658a.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_5_display_1682070635_4cc67546.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_8_display_1685341529_48b75088.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_6_display_1682070636_5fc5e17c.jpg"
-      ],
-      "big_images": [
+     
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_5_display_1682070635_4cc67546.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_3_display_1682070633_3dff658a.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_5_display_1682070635_4cc67546.jpg",
@@ -1132,13 +1115,7 @@
       "discription": "Maybelline New York Fit Me 16Hr Oil Control Compact, 128 Warm Nude, 6g",
       "price": 259,
       "discount": 19,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_1_display_1691128582_8864e0aa.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_2_display_1691128583_d083b433.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_3_display_1691128584_6ff362b0.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_4_display_1691128585_32bc5d01.jpg"
-      ],
-      "big_images": [
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_1_display_1691128582_8864e0aa.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_3_display_1691128584_6ff362b0.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_3_display_1691128584_6ff362b0.jpg",
@@ -1151,13 +1128,8 @@
       "discription": "NY Bae The Big Apple Of My Eyes Kohl Kajal | Waterproof | Smooth and Soothing | Smudgeproof Eye Makeup | Black (0.25g)",
       "price": 129,
       "discount": 23,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_5_display_1682067111_213bfcb0.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_4_display_1680243880_594132ac.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_3_display_1686213321_2e5f9f47.jpg",
-        "https://media4.purplle.com/static/img/brand//__1620898156_0350fc43.jpg"
-      ],
-      "big_images": [
+      
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_5_display_1682067111_213bfcb0.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_4_display_1680243880_594132ac.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_3_display_1686213321_2e5f9f47.jpg",
@@ -1170,13 +1142,8 @@
       "discription": "DERMDOC by Purplle 5% Glycolic Acid Under Arm Treatment (100ml) | whitening underarms, darkened underarms, underarm lightening treatment, dark underarm spray, glycolic acid for skin lightening | hyperpigmentation under arms",
       "price": 325,
       "discount": 15,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_13_display_1693480661_f0543f2e.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_2_display_1688543291_cac910e5.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_3_display_1688543295_554682f0.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_6_display_1688543298_a26fb350.jpg"
-      ],
-      "big_images": [
+      
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_13_display_1693480661_f0543f2e.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_2_display_1688543291_cac910e5.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_3_display_1688543295_554682f0.jpg",
@@ -1189,13 +1156,8 @@
       "discription": "NY Bae 3 in 1 Serum Foundation with Primer I Moisturising I Glowing Korean Skin I Warm Cashew 03 (30 ml)",
       "price": 329,
       "discount": 5,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_2_display_1691506178_f42d0dbc.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_4_display_1691506184_b301f203.jpg"
-      ],
-      "big_images": [
+      
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_2_display_1691506178_f42d0dbc.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg",
@@ -1208,13 +1170,8 @@
       "discription": "NY Bae PRO Strobe Cream | Primer + Highlighter + Moisturizer | Glowing Korean Skin - Pink Topaz (12 g)",
       "price": 260,
       "discount": 0,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_8_display_1693552163_ec57b4bc.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_3_display_1689853881_f5da3567.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_4_display_1689853882_5d0c8e07.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_5_display_1689853884_ade595a3.jpg"
-      ],
-      "big_images": [
+      
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_8_display_1693552163_ec57b4bc.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_3_display_1689853881_f5da3567.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_4_display_1689853882_5d0c8e07.jpg",
@@ -1227,13 +1184,8 @@
       "discription": "NY Bae 3 in 1 Serum Foundation with Primer I Moisturising I Glowing Korean Skin I Warm Cashew 03 (30 ml)",
       "price": 379,
       "discount": 8,
-      "small_images": [
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_2_display_1691506178_f42d0dbc.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg",
-        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_4_display_1691506184_b301f203.jpg"
-      ],
-      "big_images": [
+     
+      "images": [
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_2_display_1691506178_f42d0dbc.jpg",
         "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg",
@@ -1361,6 +1313,7 @@
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490898_body-lotions-2.jpg",
+
       "BodyLotion": [
         {
           "id": 1,
@@ -1369,13 +1322,7 @@
           "price": 299,
           "discount": 15,
           "coments": [],
-          "small_images": [
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_1_display_1685958755_7295db0c.jpg",
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_2_display_1685958756_84f9460f.jpg",
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_3_display_1685958757_0e988e2f.jpg",
-            "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_4_display_1685958758_4821e7ab.jpg"
-          ],
-          "big_images": [
+          "images": [
             "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_3_display_1685958757_0e988e2f.jpg",
             "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_2_display_1685958756_84f9460f.jpg",
             "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_3_display_1685958757_0e988e2f.jpg",
@@ -1445,7 +1392,7 @@
     }
   ],
 
-  "FREE GIFT OFFERS": [
+  "FREE_GIFT_OFFERS": [
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693419937_mac-600x865.jpeg"
@@ -1472,7 +1419,7 @@
     }
   ],
 
-  "CATEGORY STORES": [
+  "CATEGORY_STORES": [
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313495_skincare_.jpg"
@@ -1529,7 +1476,7 @@
     }
   ],
 
-  "Limited Hours Deal": [
+  "Limited_Hours_Deal": [
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693565989_blue_heaven-600x865.jpeg"
@@ -1549,7 +1496,7 @@
     }
   ],
 
-  "BRANDS WITH GREAT DEALS": [
+  "BRANDS_WITH_GREAT_DEALS": [
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693556650_acne_squad-600x865-2.jpeg"
@@ -1687,7 +1634,7 @@
       "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693654856_clinique.jpeg"
     }
   ],
-  "BUDGET BUYS": [
+  "BUDGET_BUYS": [
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693398153_lipsticks-copy.jpg"
@@ -1710,7 +1657,7 @@
     }
   ],
 
-  "BEST LOVED BRANDS": [
+  "BEST_LOVED_BRANDS": [
     {
       "id": 1,
       "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399552_beautiliss_2_aug-600x865.jpeg"
