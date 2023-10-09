@@ -1070,14 +1070,7 @@
 
       "discription": "Good Vibes De-Tan Glow Night Cream Ubtan with Power of Serum | No Parabens, No Animal Testing, Vegan, No Mineral Oil, No Sulphates (50 g)",
       "price": 290,
-      "discount": 28,
-
-      "images": [
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_13_display_1690806913_2d5ebe57.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_1_display_1679396344_c049e17e.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_12_display_1685605550_4f8ec4bf.jpg",
-        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_2_display_1679396345_92e00f43.jpg"
-      ]
+      "discount": 28
     },
     {
       "id": 2,
@@ -1321,13 +1314,7 @@
           "discription": "Good Vibes Aloe Vera Cooling Gel Body Lotion (210 ml) | Instant Cooling Sensation | Non Sticky Comfort",
           "price": 299,
           "discount": 15,
-          "coments": [],
-          "images": [
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_3_display_1685958757_0e988e2f.jpg",
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_2_display_1685958756_84f9460f.jpg",
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_3_display_1685958757_0e988e2f.jpg",
-            "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_4_display_1685958758_4821e7ab.jpg"
-          ]
+          "coments": []
         },
         {
           "id": 2,
@@ -2096,20 +2083,6 @@
       "Quantity": 1,
       "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
       "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
-    }
-  ],
-
-  "AllAddress": [
-    { "id": 1, "email": "shilpa", "password": "4224" },
-    {
-      "email": "shilpabijalwan@gmail.com",
-      "password": "12345",
-      "id": 2
-    },
-    {
-      "email": "shilpa@gmail.com",
-      "password": "12345",
-      "id": 3
     }
   ],
 
