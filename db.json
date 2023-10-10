@@ -1379,33 +1379,6 @@
     }
   ],
 
-  "FREE_GIFT_OFFERS": [
-    {
-      "id": 1,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693419937_mac-600x865.jpeg"
-    },
-    {
-      "id": 2,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693419933_colorbar-600x865.jpeg"
-    },
-    {
-      "id": 3,
-      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419934_innisfree-600x865.jpeg"
-    },
-    {
-      "id": 4,
-      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419933_dot_-_key-600x865.jpeg"
-    },
-    {
-      "id": 5,
-      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419939_swiss_beauty_craze-600x865.jpeg"
-    },
-    {
-      "id": 6,
-      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419938_makeup_revolution-600x865.jpeg"
-    }
-  ],
-
   "CATEGORY_STORES": [
     {
       "id": 1,
@@ -1434,52 +1407,6 @@
     {
       "id": 7,
       "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313493_luxury.jpg"
-    }
-  ],
-  "whatareyoulookinfor": [
-    {
-      "id": 1,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675874_eyeshadow-1000x1075.jpeg"
-    },
-    {
-      "id": 2,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675891_lipstick-1000x1075.jpeg"
-    },
-    {
-      "id": 3,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675893_shampoo-1000x1075.jpeg"
-    },
-    {
-      "id": 4,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675876_face_pack_masks_and_peels-1000x1075.jpeg"
-    },
-    {
-      "id": 5,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675865_bb_-_cc_creams-1000x1075.jpeg"
-    },
-    {
-      "id": 6,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675875_face_moisturizers_-_day_creams-1000x1075.jpeg"
-    }
-  ],
-
-  "Limited_Hours_Deal": [
-    {
-      "id": 1,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693565989_blue_heaven-600x865.jpeg"
-    },
-
-    {
-      "id": 2,
-      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693565987_jovees-_-_9pm-12am-600x865.jpeg"
-    },
-    {
-      "id": 3,
-      "image": "https://media6.ppl-media.com/tr:w-457,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693565989_swiss_beauty_craze-600x865.jpeg"
-    },
-    {
-      "id": 4,
-      "image": "https://media6.ppl-media.com/tr:w-457,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693641841_pilgrim_hair_essentials-600x865.jpeg"
     }
   ],
 
